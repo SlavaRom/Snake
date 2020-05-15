@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\vs2017\snake\snake\source.cpp(151): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Snake.vcxproj -> D:\VS2017\Snake\Debug\Snake.exe
